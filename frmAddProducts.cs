@@ -5,7 +5,7 @@ namespace ShoppingCart
 {
     public partial class frmAddProducts : Form
     {
-        // yeni bir değişiklikasdasd
+        
         public Products newPrd = new Products();
         public frmAddProducts()
         {
